@@ -24,7 +24,7 @@ Los modulos que se necesitan instalar/actualizar en Python para la utilizacion d
 
 - **!iniciar_ahorcado** : Inicia una partida de ahorcado si aun no iniciaste ninguna
 - **!ahorcado (letra)** : Ingresa la letra para adivinar la palabra/frase que te toco
-- **!ayuda** : Ayuda del bot
+- **!ayuda_ahorcado** : Ayuda del bot
 - **!stats** : Mira tus stats de las partidas de ahorcado
 - **!g_iniciar_ahorcado** : Inicia una partida de ahorcado si aun no hay una partida global pendiente
 - **!g_ahorcado (letra)** : Ingresa la letra para adivinar la palabra/frase de la partida global
