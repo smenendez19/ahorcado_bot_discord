@@ -298,7 +298,7 @@ class AhorcadoBot(discord.Client):
             if usuario_existente:
                 await message.channel.send(file=discord.File(os.path.join("images", str(dicc_actual["usuario"]) + "_game.jpg")))
             await message.channel.send(embed=embed_msg)
-        # !ayuda
+        # !ayuda_ahorcado
         if message.content.startswith("!ayuda"):
             embed_msg = discord.Embed(title="Ahorcado", colour=0x00FF00)
             msg = "!iniciar_ahorcado -> Inicia una partida de ahorcado si aun no iniciaste ninguna\n"
